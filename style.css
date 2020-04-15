@@ -1,0 +1,27 @@
+.container{
+    width: 400px;
+    height: 500px;
+    border:  1px solid;
+    margin: 50px auto;
+}
+h1,#country,#weatherNow{
+    text-align: center;
+}
+h2{
+    margin-top: 0;
+}
+#input{
+    width: 90%;
+    margin: 5%;
+    padding: 10px;
+    font-size: 22px;
+}
+#search{
+    width: 40%;
+    margin: 10px 30%;
+    padding: 10px;
+}
+.containerBlock{
+    font-size: 20px;
+    padding: 20px;
+}
